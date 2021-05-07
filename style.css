@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box ;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.navbar{
+  
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.nav-link{
+    color:black;
+     font-size: 1rem;
+     cursor: pointer;
+     text-decoration: black;
+     
+}
+
+.nav-link:hover{
+    color: white;
+    background-color:grey;
+}
+.myprofile:hover
+{
+    color:white;
+    background-color:#122620;
+
+}
+.home-img:hover{
+
+    background-color:#122620;
+    border-radius: 100%;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace
+}
+.navbar-nav{
+    left: 100px;
+}
+.navbar-brand img{
+    padding-left: 50px;
+    height: 50px;
+}
+
+.home img{
+    background-color: grey;
+}
+.fab{
+    text-decoration: none;
+}
+.fa-instagram{
+    color: #FF0080;
+}
